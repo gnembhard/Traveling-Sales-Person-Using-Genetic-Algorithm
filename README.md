@@ -1,11 +1,11 @@
-# 🧬 Traveling Salesman Problem Using a Genetic Algorithm
+#  Traveling Salesman Problem Using a Genetic Algorithm
 
 This project solves the **Traveling Salesman Problem (TSP)** using a **Genetic Algorithm (GA)** approach in Python.  
 It generates a set of random cities with coordinates and applies evolutionary principles — **selection, crossover, and mutation** — to find the shortest possible route that visits all cities and returns to the start.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Random generation of cities with 2D coordinates  
 - Distance calculation between cities using Euclidean distance  
@@ -18,7 +18,7 @@ It generates a set of random cities with coordinates and applies evolutionary pr
 
 ---
 
-## 🧩 How It Works
+##  How It Works
 
 1. A set of random cities is generated with `(x, y)` coordinates.  
 2. An initial population of random routes (individuals) is created.  
@@ -30,7 +30,7 @@ It generates a set of random cities with coordinates and applies evolutionary pr
 
 ---
 
-## 🧠 Genetic Algorithm Overview
+##  Genetic Algorithm Overview
 
 | Concept | Description |
 |----------|--------------|
